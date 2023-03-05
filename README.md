@@ -1,6 +1,6 @@
 # Player Valuation
 
-Welcome to my take on NBA player valuation! Here I use FiveThirtyEight's raptor WAR advanced statistic to estimate how much a player is worth in dollars. I will shortly post a full write up and analysis on my [website](jquam15.github.io), so I would highly encourage you to check it out! In the meantime you can look at some of my other work!
+Welcome to my take on NBA player valuation! Here I use FiveThirtyEight's raptor WAR advanced statistic to estimate how much a player is worth in dollars. I have posted a full write up and analysis of my findings [here](https://jquam15.github.io/Player_Valuation.html), so I would highly encourage you to check it out! Feel free to check out the rest of my work on my [website](https://jquam15.github.io) as well!
 
 Advanced player data was acquired from the [538](https://github.com/fivethirtyeight/data/tree/master/nba-raptor) github repo and player/team salary data was scraped from the [Hoops Hype](https://hoopshype.com/salaries/2021-2022/) website.
 
